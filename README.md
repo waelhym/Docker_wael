@@ -1,5 +1,4 @@
-# docker-Wael - Tested  Ubuntu 20.04.5 LTS & Ubuntu 22.04.1 LTS
-#  one command, the following will be installed
+# one command, the following will be installing docker-Wael - Ubuntu 20.04.5 LTS & Ubuntu 22.04.1 LTS
 [ webmin](https://www.webmin.com/)
 #
 [ docker](https://www.docker.com/)
