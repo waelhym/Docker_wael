@@ -327,7 +327,7 @@ startInstall()
  echo "##########################################"
                                                                                                                         
 EOF
-        curl -s https://raw.githubusercontent.com/waelhym/odoo-18-docker_compose/waelhym/run.sh | sudo bash -s odoo-one 10018 20018
+        curl -s https://raw.githubusercontent.com/minhng92/odoo-18-docker-compose/master/run.sh | sudo bash -s odoo-one 10018 20018
         
  cat << "EOF"        
         
