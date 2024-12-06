@@ -1,19 +1,12 @@
 # one command, the following will be installing docker-Wael - Ubuntu 20.04.5 LTS & Ubuntu 22.04.1 LTS
 [ webmin](https://www.webmin.com/)
-#
 [ docker](https://www.docker.com/)
-#
 [ docker compose](https://docs.docker.com/engine/reference/commandline/compose/)
-#
 [portainer](https://docs.portainer.io/)
-#
 [ nginexproxy manager](https://nginxproxymanager.com/)
-#
-[ Odoo 14](https://www.odoo.com/documentation/14.0/)
-#
-[ Odoo 15](https://www.odoo.com/documentation/15.0/)
-#
-[odoo 16](https://www.odoo.com/documentation/16.0/)
+[ Odoo 18](https://www.odoo.com/documentation/18.0/)
+[ Odoo 16](https://www.odoo.com/documentation/16.0/)
+[odoo 17](https://www.odoo.com/documentation/17.0/)
 
 
 # INSTALL
