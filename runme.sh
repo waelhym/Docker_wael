@@ -322,18 +322,7 @@ startInstall()
         sleep 3s
         cd /opt
         cat << "EOF"
- echo "##########################################"
- echo "###     Install Odoo 18               ###"
- echo "##########################################"
-                                                                                                                        
-EOF
-        curl -s https://raw.githubusercontent.com/minhng92/odoo-18-docker-compose/master/run.sh | sudo bash -s odoo-1 10018 20018
-        curl -s https://raw.githubusercontent.com/minhng92/odoo-18-docker-compose/master/run.sh | sudo bash -s odoo-2 11018 21018
-        curl -s https://raw.githubusercontent.com/minhng92/odoo-18-docker-compose/master/run.sh | sudo bash -s odoo-3 12018 22018
 
-        
- cat << "EOF"        
-        
  echo "##########################################"
  echo "###     Install Odoo 16               ###"
  echo "##########################################"
@@ -353,7 +342,19 @@ EOF
                 
         
         curl -s https://raw.githubusercontent.com/minhng92/odoo-17-docker-compose/master/run.sh | sudo bash -s odoo-17 10017 20017
+
        
+         cat << "EOF"       
+        
+ echo "##########################################"
+ echo "###     Install Odoo 18               ###"
+ echo "##########################################"
+                                                                                                                        
+EOF
+
+        curl -s https://raw.githubusercontent.com/minhng92/odoo-18-docker-compose/master/run.sh | sudo bash -s odoo-18 10018 20018
+       
+        
 
         cd
         
